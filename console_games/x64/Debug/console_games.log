@@ -1,0 +1,3 @@
+﻿  console_games.cpp
+D:\IT\IT\C++\casino\console_games\console_games\console_games.cpp(90,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  console_games.vcxproj -> D:\IT\IT\C++\casino\console_games\x64\Debug\console_games.exe
